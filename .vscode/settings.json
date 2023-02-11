@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "rq_phonebook.h": "c",
+        "shobjidl_core.h": "c"
+    }
+}
